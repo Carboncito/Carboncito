@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I like javascript and 🌮
+I like tacos and javascript
 
 ### Skills
 
